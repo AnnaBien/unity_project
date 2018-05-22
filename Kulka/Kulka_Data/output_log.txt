@@ -1,0 +1,42 @@
+Initialize engine version: 5.5.4p4 (e92bef0ab5a4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Vendor:   Intel
+    VRAM:     1130 MB
+    Driver:   16.300.2101.0
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\wszystko\studia\gry\projekt\unity_project\Kulka\Kulka_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\wszystko\studia\gry\projekt\unity_project\Kulka\Kulka_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\wszystko\studia\gry\projekt\unity_project\Kulka\Kulka_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\wszystko\studia\gry\projekt\unity_project\Kulka\Kulka_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\wszystko\studia\gry\projekt\unity_project\Kulka\Kulka_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\wszystko\studia\gry\projekt\unity_project\Kulka\Kulka_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\wszystko\studia\gry\projekt\unity_project\Kulka\Kulka_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\wszystko\studia\gry\projekt\unity_project\Kulka\Kulka_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\wszystko\studia\gry\projekt\unity_project\Kulka\Kulka_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading F:\wszystko\studia\gry\projekt\unity_project\Kulka\Kulka_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.022 seconds
+Platform assembly: F:\wszystko\studia\gry\projekt\unity_project\Kulka\Kulka_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\wszystko\studia\gry\projekt\unity_project\Kulka\Kulka_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 5.331557 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1b80 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.278956 ms
+
+Unloading 90 unused Assets to reduce memory usage. Loaded Objects now: 1509.
+Total: 0.564502 ms (FindLiveObjects: 0.090662 ms CreateObjectMapping: 0.049607 ms MarkObjects: 0.378901 ms  DeleteObjects: 0.044048 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.524585 ms
+
+Unloading 52 unused Assets to reduce memory usage. Loaded Objects now: 414.
+Total: 0.474267 ms (FindLiveObjects: 0.030363 ms CreateObjectMapping: 0.020099 ms MarkObjects: 0.253598 ms  DeleteObjects: 0.169778 ms)
+
